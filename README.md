@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-Rock-Paper-Scissors Game
+I created a Rock-Paper-Scissors game using Python.
